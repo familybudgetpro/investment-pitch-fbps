@@ -72,7 +72,7 @@ const products = [
     tags: ["Analytics", "BI", "Data"]
   },
   {
-    name: "Bank Statement Analyzer",
+    name: "Docs Analyzer",
     description: "Automated financial bank statement parsing and credit scoring system for automated risk assessment.",
     image: "/screenshots/bankanalyzer.jpg",
     link: "https://bankstatementanalyzer.vercel.app",
