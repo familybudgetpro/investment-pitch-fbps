@@ -75,7 +75,7 @@ const products = [
     name: "Docs Analyzer",
     description: "Automated financial bank statement parsing and credit scoring system for automated risk assessment.",
     image: "/screenshots/bankanalyzer.jpg",
-    link: "https://bankstatementanalyzer.vercel.app",
+    link: "https://docsanalyzer.com",
     tags: ["Fintech", "Automation", "Security"]
   }
 ];
